@@ -1,13 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>Session Board updates</title>
-    <link>https://github.com/jacobmorrin/session-board-releases/releases</link>
-    <description>Signed releases of Session Board for macOS.</description>
-    <language>en</language>
-  </channel>
+    <channel>
+        <title>Session Board</title>
+        <item>
+            <title>1.2</title>
+            <pubDate>Fri, 06 Nov 2026 14:16:37 -0700</pubDate>
+            <sparkle:version>602</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jacobmorrin/session-board-releases/releases/download/v1.2-build602/SessionBoard-1.2-build602.zip" length="13924948" type="application/octet-stream" sparkle:edSignature="pYgBlFxW/kn2+4Xe29nisR5Xc+Ue+EGEU7/AOAkAZcAph0JqxxO91W/eLNtqlXsrP8Dvb5PHWZcJW7t/oZLSDg=="></enclosure>
+        </item>
+    </channel>
 </rss><!-- sparkle-signatures:
-edSignature: VkGW/mi6CJxSDvUU+qoSZFfvU7qhypLm5D4y3sOZqq9egBGGNR7TrgoXi5V0GKGyiMNa+zVvqZgu74XPnfi4Cw==
-length: 634
+edSignature: 91JCUaJw2jbF7975I6knzXBet/PXnqwpfZrvqK7d2vlw5ZbcC9vgtAfwQvNaXeLrNLZTDhsXs8MrTa/y359eAw==
+length: 1080
 -->
