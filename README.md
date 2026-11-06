@@ -6,7 +6,9 @@ This repository hosts release downloads, release notes, and the automatic update
 
 ## Downloads
 
-Signed, notarized downloads will appear under [Releases](https://github.com/jacobmorrin/session-board-releases/releases). No release is published yet.
+Download the signed, Apple-notarized app from the [latest release](https://github.com/jacobmorrin/session-board-releases/releases/latest).
+
+Unzip the download, move **Session Board.app** into **Applications**, and open it. Claude Code must be installed separately. Existing users of older, locally built versions need to install an updater-enabled release once; future releases are available from **Session Board → Check for Updates…**.
 
 ## Automatic updates
 
