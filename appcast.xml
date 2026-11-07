@@ -5,14 +5,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Session Board</title>
         <item>
             <title>1.2</title>
-            <pubDate>Sat, 07 Nov 2026 08:15:48 -0700</pubDate>
-            <sparkle:version>617</sparkle:version>
+            <pubDate>Sat, 07 Nov 2026 16:49:58 -0700</pubDate>
+            <sparkle:version>635</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jacobmorrin/session-board-releases/releases/download/v1.2-build617/SessionBoard-1.2-build617.zip" length="14262087" type="application/octet-stream" sparkle:edSignature="OXbofq/9U7zh0pXuhIBSYVhxOhDnxeliL8BANGzbhMohxOzHLEVCiAk5LXiUp7iMuRcPN+BNybdbCGMiEourCA=="></enclosure>
+            <enclosure url="https://github.com/jacobmorrin/session-board-releases/releases/download/v1.2-build635/SessionBoard-1.2-build635.zip" length="16733000" type="application/octet-stream" sparkle:edSignature="MzkGkmmx/5RprSAoQUQPUvDD7ipfVhXEl31w7hJ6E3H6flWQvvT5ixZQwDBIXF0HWxpiZCBsFxV+lAQfvP7iDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: W9nGD8ciQJArVw+cz7Dc3fo8n6RKkhEYZFBDHYlvyL4t9vqprYdwEhNYOwlr0CEUTBhOf77lqNW5e3/IQeA3DA==
+edSignature: vOyFgLypknZYu52HZTvDD29WnxuanVix7Isyqm+aDGyuPKwb322/K+gxGGG2hp/u1CJS2r4sKfywJrZPDlhoCA==
 length: 1080
 -->
